@@ -1,7 +1,7 @@
 <p align="center">DATABASE</p>
 <div align="center">
 <img src="https://telegra.ph/file/985eef55c5052c3b01b16.jpg" width="250" height="250" border="0" alt="PFFP">
-<p align="center">
+<p>
      Pelajar saat ini sudah pastinya tidak asing lagi dengan yang namanya sosial media atau sering juga disebut dengan nama kekiniannya yaitu medsos. Secara umum, sosial media adalah saluran atau sarana pergaulan sosial secara online  di dunia maya. Karena itu, saat ini memiliki media sosial tentu saja seakan menjadi suatu keharusan tertentu bagi para kalangan pelajar. Dengan kata lain, media sosial ini mampu membius semua kalangan untuk menjadi bagian darinya, alias menjadi membernya. Namun yang menjadi pertanyaan, apakah penting memiliki media sosial itu?
 
      Tak dapat di pungkiri, dengan medsos seorang pelajar dapat melatih kreativitas dengan mengikuti perkembangan teknologi dan memanfaatkan peluang yang ada. Misalnya dengan berbisnis jualan online, mendapatkan teman virtual baru, melakukan pembelajaran online dan hal positif lainnya.
